@@ -1,6 +1,6 @@
 # Customer Segmentation & Revenue Analytics
 
-## Project Overview
+## Project Description
 
 This project analyzes 500K+ online retail transactions to understand customer purchasing behavior and identify meaningful customer segments.
 
