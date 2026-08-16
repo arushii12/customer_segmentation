@@ -170,7 +170,6 @@ The dashboard analyzes:
 - Recency across customer segments
 - Purchase frequency
 - Customer monetary value
-- Customer share vs. revenue share
 - High-value and At-Risk customer groups
 
 The dashboard helps translate the clustering results into actionable business insights.
